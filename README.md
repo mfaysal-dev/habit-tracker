@@ -2,7 +2,7 @@
 
 A beautiful, privacy-first habit & goal tracker that runs **entirely in your browser**. No accounts, no backend, no API keys — data lives in `localStorage` with JSON export/import.
 
-**Live:** _see repo homepage_
+**Live:** https://habit-tracker-six-indol-76.vercel.app
 
 ## Features
 - **Habits with real schedules** — daily, specific weekdays, or X-times-per-week; count targets (e.g. 8 glasses of water); time-of-day grouping; archive/restore.
